@@ -1,0 +1,70 @@
+2018/09/20 18:31:49 [error] 17648#19212: *1 CreateFile() "D:/temp/img/imghead" failed (3: The system cannot find the path specified), client: 172.18.3.219, server: localhost, request: "GET /img/imghead HTTP/1.1", host: "172.18.3.219"
+2018/09/20 18:31:49 [error] 17648#19212: *1 CreateFile() "D:\cky_project\node_mysql\nginx\nginx/html/favicon.ico" failed (2: The system cannot find the file specified), client: 172.18.3.219, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "172.18.3.219", referrer: "http://172.18.3.219/img/imghead"
+2018/09/20 18:32:07 [error] 17648#19212: *1 CreateFile() "D:/temp/img/imghead" failed (3: The system cannot find the path specified), client: 172.18.3.219, server: localhost, request: "GET /img/imghead HTTP/1.1", host: "172.18.3.219"
+2018/09/20 18:32:14 [error] 17648#19212: *1 CreateFile() "D:\cky_project\node_mysql\nginx\nginx/html/img" failed (2: The system cannot find the file specified), client: 172.18.3.219, server: localhost, request: "GET /img HTTP/1.1", host: "172.18.3.219"
+2018/09/20 18:34:11 [notice] 7504#2388: signal process started
+2018/09/20 18:34:12 [notice] 14376#18912: signal process started
+2018/09/20 18:34:45 [error] 12844#15080: *6 CreateFile() "D:/temp/img/imghead" failed (3: The system cannot find the path specified), client: 172.18.3.219, server: localhost, request: "GET /img/imghead HTTP/1.1", host: "172.18.3.219"
+2018/09/20 18:34:48 [error] 12844#15080: *6 CreateFile() "D:/temp/img/imghead" failed (3: The system cannot find the path specified), client: 172.18.3.219, server: localhost, request: "GET /img/imghead HTTP/1.1", host: "172.18.3.219"
+2018/09/20 18:35:03 [notice] 13204#19144: signal process started
+2018/09/20 18:35:26 [error] 10128#13724: *10 CreateFile() "D:/temp/img/imghead" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /img/imghead HTTP/1.1", host: "localhost"
+2018/09/20 18:35:26 [error] 10128#13724: *10 CreateFile() "D:\cky_project\node_mysql\nginx\nginx/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/img/imghead"
+2018/09/20 18:36:08 [notice] 17208#16912: signal process started
+2018/09/20 18:36:09 [notice] 13904#13760: signal process started
+2018/09/20 18:36:25 [error] 18948#9912: *12 CreateFile() "D:/temp/img/imghead.jpg" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /img/imghead.jpg HTTP/1.1", host: "localhost"
+2018/09/20 18:36:40 [error] 18948#9912: *17 CreateFile() "D:/temp/img/imghead.jpg" failed (3: The system cannot find the path specified), client: 172.18.3.219, server: localhost, request: "GET /img/imghead.jpg HTTP/1.1", host: "172.18.3.219"
+2018/09/20 18:36:43 [notice] 17524#2848: signal process started
+2018/09/20 18:36:45 [notice] 12692#15276: signal process started
+2018/09/20 18:36:48 [error] 18808#16668: *18 CreateFile() "D:/temp/img/imghead.jpg" failed (3: The system cannot find the path specified), client: 172.18.3.219, server: localhost, request: "GET /img/imghead.jpg HTTP/1.1", host: "172.18.3.219"
+2018/09/20 18:36:49 [error] 18808#16668: *18 CreateFile() "D:/temp/img/imghead.jpg" failed (3: The system cannot find the path specified), client: 172.18.3.219, server: localhost, request: "GET /img/imghead.jpg HTTP/1.1", host: "172.18.3.219"
+2018/09/20 18:37:35 [notice] 10308#14024: signal process started
+2018/09/20 18:38:06 [error] 12480#18476: *19 CreateFile() "D:/temp/img" failed (3: The system cannot find the path specified), client: 172.18.3.219, server: localhost, request: "GET /img HTTP/1.1", host: "172.18.3.219"
+2018/09/20 18:38:58 [notice] 13388#1984: signal process started
+2018/09/20 18:38:59 [notice] 3624#17688: signal process started
+2018/09/20 18:40:29 [notice] 17332#18348: signal process started
+2018/09/20 18:40:58 [error] 16672#11268: *20 CreateFile() "D:\cky_project\node_mysql\nginx\nginx/html/favicon.ico" failed (2: The system cannot find the file specified), client: 172.18.3.219, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "172.18.3.219:8098", referrer: "http://172.18.3.219:8098/"
+2018/09/20 18:41:03 [error] 16672#11268: *20 CreateFile() "D:\cky_project\node_mysql\nginx\nginx/html/imh" failed (2: The system cannot find the file specified), client: 172.18.3.219, server: localhost, request: "GET /imh HTTP/1.1", host: "172.18.3.219:8098"
+2018/09/20 18:41:08 [error] 16672#11268: *20 CreateFile() "D:/temp/img" failed (3: The system cannot find the path specified), client: 172.18.3.219, server: localhost, request: "GET /img HTTP/1.1", host: "172.18.3.219:8098"
+2018/09/20 18:41:11 [error] 16672#11268: *20 CreateFile() "D:/temp/img" failed (3: The system cannot find the path specified), client: 172.18.3.219, server: localhost, request: "GET /img HTTP/1.1", host: "172.18.3.219:8098"
+2018/09/20 18:41:13 [error] 16672#11268: *20 CreateFile() "D:/temp/img" failed (3: The system cannot find the path specified), client: 172.18.3.219, server: localhost, request: "GET /img HTTP/1.1", host: "172.18.3.219:8098"
+2018/09/20 18:41:43 [error] 16672#11268: *20 CreateFile() "D:/temp/img/imghead.jpg" failed (3: The system cannot find the path specified), client: 172.18.3.219, server: localhost, request: "GET /img/imghead.jpg HTTP/1.1", host: "172.18.3.219:8098"
+2018/09/20 18:41:48 [error] 16672#11268: *20 CreateFile() "D:/temp/img/imghead.jpg" failed (3: The system cannot find the path specified), client: 172.18.3.219, server: localhost, request: "GET /img/imghead.jpg HTTP/1.1", host: "172.18.3.219:8098"
+2018/09/20 18:42:02 [notice] 18984#18512: signal process started
+2018/09/20 18:42:03 [notice] 18204#18548: signal process started
+2018/09/20 18:42:08 [error] 18940#5712: *24 CreateFile() "D:/temp/img/imghead.jpg" failed (3: The system cannot find the path specified), client: 172.18.3.219, server: localhost, request: "GET /img/imghead.jpg HTTP/1.1", host: "172.18.3.219:8098"
+2018/09/20 18:42:16 [error] 18940#5712: *24 CreateFile() "D:/temp/img/imghead.jpg" failed (3: The system cannot find the path specified), client: 172.18.3.219, server: localhost, request: "GET /img/imghead.jpg HTTP/1.1", host: "172.18.3.219:8098"
+2018/09/20 18:47:28 [error] 18940#5712: *25 CreateFile() "D:/temp/img/imghead.jpg" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /img/imghead.jpg HTTP/1.1", host: "localhost:8098", referrer: "http://172.18.3.219:8084/"
+2018/09/20 18:49:57 [error] 18940#5712: *26 CreateFile() "D:/temp/img/imgtimg.jpg" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /img/imgtimg.jpg HTTP/1.1", host: "localhost:8098", referrer: "http://172.18.3.219:8084/"
+2018/09/20 18:52:23 [notice] 11536#10508: signal process started
+2018/09/20 18:52:23 [notice] 16304#10716: signal process started
+2018/09/20 18:53:15 [error] 11408#13264: *27 CreateFile() "D:/temp/images/imghead.jpg" failed (3: The system cannot find the path specified), client: 172.18.3.219, server: localhost, request: "GET /images/imghead.jpg HTTP/1.1", host: "172.18.3.219:8098"
+2018/09/20 18:53:18 [error] 11408#13264: *27 CreateFile() "D:/temp/images/imghead.jpg" failed (3: The system cannot find the path specified), client: 172.18.3.219, server: localhost, request: "GET /images/imghead.jpg HTTP/1.1", host: "172.18.3.219:8098"
+2018/09/20 18:53:33 [error] 11408#13264: *28 CreateFile() "D:/temp/images/imghead.jpg" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /images/imghead.jpg HTTP/1.1", host: "localhost:8098"
+2018/09/20 18:53:33 [error] 11408#13264: *28 CreateFile() "D:\cky_project\node_mysql\nginx\nginx/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8098", referrer: "http://localhost:8098/images/imghead.jpg"
+2018/09/20 18:53:51 [error] 11408#13264: *28 CreateFile() "D:/temp/images" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /images HTTP/1.1", host: "localhost:8098"
+2018/09/20 18:54:41 [emerg] 15536#16548: unexpected "}" in D:\cky_project\node_mysql\nginx\nginx/conf/nginx.conf:51
+2018/09/20 18:54:41 [emerg] 14744#6180: unexpected "}" in D:\cky_project\node_mysql\nginx\nginx/conf/nginx.conf:51
+2018/09/20 18:54:52 [emerg] 15152#12636: unexpected "}" in D:\cky_project\node_mysql\nginx\nginx/conf/nginx.conf:51
+2018/09/20 18:55:00 [emerg] 5172#17384: unexpected "}" in D:\cky_project\node_mysql\nginx\nginx/conf/nginx.conf:50
+2018/09/20 18:55:14 [notice] 7940#14888: signal process started
+2018/09/20 18:55:35 [emerg] 15548#16604: unexpected "}" in D:\cky_project\node_mysql\nginx\nginx/conf/nginx.conf:51
+2018/09/20 18:55:41 [notice] 12032#1168: signal process started
+2018/09/20 18:55:42 [notice] 17160#19228: signal process started
+2018/09/20 18:55:47 [error] 10508#12772: *34 CreateFile() "D:/temp/images" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /images HTTP/1.1", host: "localhost:8098"
+2018/09/20 18:56:25 [emerg] 2900#18496: unexpected "}" in D:\cky_project\node_mysql\nginx\nginx/conf/nginx.conf:51
+2018/09/20 18:56:37 [emerg] 17332#18776: unexpected "}" in D:\cky_project\node_mysql\nginx\nginx/conf/nginx.conf:51
+2018/09/20 18:57:30 [notice] 13276#16516: signal process started
+2018/09/20 18:57:32 [notice] 11540#16480: signal process started
+2018/09/20 18:57:46 [error] 8244#17236: *38 CreateFile() "D:/temp/images/index.html" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /images/index.html HTTP/1.1", host: "localhost:8098"
+2018/09/20 18:57:49 [error] 8244#17236: *38 CreateFile() "D:/temp/images/index.html" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /images/index.html HTTP/1.1", host: "localhost:8098"
+2018/09/20 18:57:49 [error] 8244#17236: *38 CreateFile() "D:/temp/images/index.html" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /images/index.html HTTP/1.1", host: "localhost:8098"
+2018/09/20 18:59:41 [notice] 10828#16676: signal process started
+2018/09/20 18:59:42 [notice] 5600#10056: signal process started
+2018/09/20 18:59:42 [notice] 5668#7520: signal process started
+2018/09/20 19:02:09 [notice] 11884#7812: signal process started
+2018/09/20 19:02:44 [error] 11856#13620: *40 CreateFile() "D:/www/images/imghead" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /images/imghead HTTP/1.1", host: "localhost:8098"
+2018/09/20 19:02:53 [error] 11856#13620: *42 CreateFile() "D:/www/images/imghead" failed (3: The system cannot find the path specified), client: 172.18.3.219, server: localhost, request: "GET /images/imghead HTTP/1.1", host: "172.18.3.219:8098"
+2018/09/20 19:03:10 [alert] 16832#18608: worker process 14868 exited with code C0000142
+2018/09/20 19:03:10 [alert] 16832#18608: could not respawn worker
+2018/09/21 09:42:18 [error] 7476#7564: *1 CreateFile() "D:\cky_project\node_mysql\nginx\nginx/html/favicon.ico" failed (2: The system cannot find the file specified), client: 172.18.3.219, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "172.18.3.219:8098", referrer: "http://172.18.3.219:8098/"
+2018/09/21 09:58:15 [error] 7476#7564: *9 CreateFile() "D:\cky_project\node_mysql\nginx\nginx/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8098", referrer: "http://localhost:8098/images/imghead.jpg"
